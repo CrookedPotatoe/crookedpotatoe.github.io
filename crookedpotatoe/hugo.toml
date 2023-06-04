@@ -1,1 +1,4 @@
+baseURL = 'http://crookedpotatoe.github.io/'
+languageCode = 'en-us'
+title = 'Crooked Potatoe'
 theme = 'ananke'
